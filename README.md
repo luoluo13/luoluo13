@@ -25,11 +25,11 @@
 
 - ④ 网络安全业余爱好者。有CTF实战经验，喜欢红蓝盲测。热衷于实践而非理论（所以底子不够厚），有想法就去淦！
 
-- 热爱文学，基本通吃，特爱宋词。喜欢炼字，斟酌字句。
+- ⑤ 热爱文学，基本通吃，特爱宋词。喜欢炼字，斟酌字句。
 
 <br>
 
-## 技术栈
+## 近年来接触过的技术栈
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,vue,python,matlab,html,css,nodejs,flutter,docker,linux,raspberrypi,git,githubactions" />
@@ -37,7 +37,7 @@
 
 <br>
 
-## 精选项目（AI总结的，仅供参考。详情看pin噢！）
+## 精选项目（AI总结的，仅供参考。真实情况看pin噢！）
 
 | 项目 | 简介 |
 | :--- | :--- |
