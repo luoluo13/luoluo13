@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=160&section=header&text=%E6%B4%9B%E6%B4%9B&fontSize=68&fontAlignY=38&fontColor=ffffff&desc=%E5%BC%80%E6%BA%90%E7%B2%BE%E7%A5%9E%E4%B8%87%E5%B2%81%20%C2%B7%20%E5%A4%B4%E8%84%91%E9%A3%8E%E6%9A%B4%20%C2%B7%20%E5%B8%A6%E5%B8%A6%E5%BF%97%E5%90%8C%E9%81%93%E5%90%88%E7%9A%84%E8%90%8C%E6%96%B0&descAlignY=58&descSize=15&descColor=ffffffcc" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&text=%E6%B4%9B%E6%B4%9B&fontSize=72&fontAlignY=40&fontColor=e94560&desc=%E5%BC%80%E6%BA%90%E7%B2%BE%E7%A5%9E%20%C2%B7%20%E5%A4%B4%E8%84%91%E9%A3%8E%E6%9A%B4%20%C2%B7%20%E5%B8%A6%E5%B8%A6%E8%90%8C%E6%96%B0&descAlignY=60&descSize=14&descColor=a2a8d3" alt="header" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=%E5%BC%80+%E6%BA%90+%E7%B2%BE+%E7%A5%9E+%E4%B8%87+%E5%B2%81;%E5%A4%B4+%E8%84%91+%E9%A3%8E+%E6%9A%B4;%E5%B8%A6+%E5%B8%A6+%E5%BF%97+%E5%90%8C+%E9%81%93+%E5%90%88+%E7%9A%84+%E8%90%8C+%E6%96%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=480&lines=%E5%BC%80+%E6%BA%90+%E7%B2%BE+%E7%A5%9E+%E4%B8%87+%E5%B2%81;%E5%A4%B4+%E8%84%91+%E9%A3%8E+%E6%9A%B4;%E5%B8%A6+%E5%B8%A6+%E5%BF%97+%E5%90%8C+%E9%81%93+%E5%90%88+%E7%9A%84+%E8%90%8C+%E6%96%B0" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luoluo13&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=luoluo13&style=flat-square&color=e94560&label=Views" alt="Profile views" />
 </p>
 
 ## 关于我
