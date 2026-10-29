@@ -19,6 +19,8 @@
   
 - ④ 网络安全业余爱好者。有CTF实战经验，喜欢红蓝盲测。热衷于实践而非理论（所以底子不够厚），有想法就去淦！
 
+- 热爱文学，基本通吃，特爱宋词。喜欢炼字，斟酌字句。
+
 ## 技术栈
 
 <p>
@@ -30,15 +32,10 @@
 | 项目 | 简介 |
 |------|------|
 | [personalAgent](https://github.com/luoluo13/personalAgent) | 具备长期记忆的 LLM 情感陪伴 Agent（Redis + ChromaDB） |
-
 | [VueTextGame](https://github.com/luoluo13/VueTextGame) | 基于 Vue + DeepSeek 的动态 AI 剧情文字游戏框架 |
-
 | [WorkLogEditor](https://github.com/luoluo13/WorkLogEditor) | Tauri 桌面工作日志编辑器，集成 AI 润色与总结 |
-
 | [math-modeling](https://github.com/luoluo13/math-modeling) | 全国大学生数学建模竞赛代码模板库 |
-
 | [CTF-Skills-Tree](https://github.com/luoluo13/CTF-Skills-Tree) | 面向萌新的 CTF 学习路线 |
-
 | [writingAgent](https://github.com/luoluo13/writingAgent) | AI 小说撰写系统 |
 
 ## 最近关注
@@ -49,7 +46,7 @@
   
 - 搞钱副业...( $ _ $ )
   
-- 品茶🍵
+- 品茗🍵
   
 ## GitHub 数据
 
