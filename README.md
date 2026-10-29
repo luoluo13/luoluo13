@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=开+源+精+神+万+岁;头+脑+风+暴;带+带+志+同+道+合+的+萌+新" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E5%BC%80+%E6%BA%90+%E7%B2%BE+%E7%A5%9E+%E4%B8%87+%E5%B2%81;%E5%A4%B4+%E8%84%91+%E9%A3%8E+%E6%9A%B4;%E5%B8%A6+%E5%B8%A6+%E5%BF%97+%E5%90%8C+%E9%81%93+%E5%90%88+%E7%9A%84+%E8%90%8C+%E6%96%B0" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luoluo13&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=luoluo13&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
 </p>
 
 <br>
