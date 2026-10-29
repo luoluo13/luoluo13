@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=160&section=header&text=洛洛&fontSize=68&fontAlignY=38&fontColor=ffffff&desc=开源精神万岁 · 头脑风暴 · 带带志同道合的萌新&descAlignY=58&descSize=15&descColor=ffffffcc" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=160&section=header&text=%E6%B4%9B%E6%B4%9B&fontSize=68&fontAlignY=38&fontColor=ffffff&desc=%E5%BC%80%E6%BA%90%E7%B2%BE%E7%A5%9E%E4%B8%87%E5%B2%81%20%C2%B7%20%E5%A4%B4%E8%84%91%E9%A3%8E%E6%9A%B4%20%C2%B7%20%E5%B8%A6%E5%B8%A6%E5%BF%97%E5%90%8C%E9%81%93%E5%90%88%E7%9A%84%E8%90%8C%E6%96%B0&descAlignY=58&descSize=15&descColor=ffffffcc" alt="header" />
 </div>
 
 <p align="center">
@@ -63,12 +63,6 @@
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=luoluo13&show_icons=true&theme=transparent&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoluo13&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luoluo13&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
 </p>
 
 <br>
