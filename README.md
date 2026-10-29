@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff0f5,50:ffe4e9,100:ffc0cb&height=170&section=header&text=%E6%B4%9B%E6%B4%9B&fontSize=74&fontAlignY=36&fontColor=d6336c&desc=%E5%BC%80%E6%BA%90%E7%B2%BE%E7%A5%9E%20%C2%B7%20%E5%A4%B4%E8%84%91%E9%A3%8E%E6%9A%B4%20%C2%B7%20%E5%B8%A6%E5%B8%A6%E8%90%8C%E6%96%B0&descAlignY=62&descSize=15&descColor=c2255c" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff0f5,50:ffe4e9,100:ffc0cb&height=160&section=header&text=%E6%B4%9B%20%20%E6%B4%9B&fontSize=80&fontAlignY=45&fontColor=d6336c" alt="header" />
 </div>
 
 <br>
@@ -80,5 +80,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff0f5,50:ffe4e9,100:ffc0cb&height=100&section=footer" alt="footer" />
 </div>
